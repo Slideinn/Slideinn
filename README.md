@@ -12,7 +12,7 @@
 
 
 
-- ⚡ Fun fact: Every COBOL job offer is an obituary
+- ⚡ Fun fact: Every job offer related to COBOL is an obituary of the previous employee.
 
 
 <!--
