@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/Slideinn/Slideinn/blob/main/animation_500_kxa883sd.gif?raw=true" alt="Slideinn" /></p>
 
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Laravel
 
 
 
